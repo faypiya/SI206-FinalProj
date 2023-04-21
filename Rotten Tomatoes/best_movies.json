@@ -1,0 +1,722 @@
+[
+    {
+        "title": "The Last Kingdom: Seven Kings Must Die",
+        "tomatometer": 92,
+        "genres": "Action, History, Drama",
+        "data_ems_id": "1f910ebf-a23f-3de3-afa2-cb0a0eb9a15d"
+    },
+    {
+        "title": "Hunger",
+        "tomatometer": 85,
+        "genres": "Drama",
+        "data_ems_id": "a97d2fe5-1e22-3381-a150-eed0ef549099"
+    },
+    {
+        "title": "Ghosted",
+        "tomatometer": 32,
+        "genres": "Action, Romance, Adventure",
+        "data_ems_id": "2910119f-ffbe-358c-a6cb-efcfa817d3a2"
+    },
+    {
+        "title": "Cocaine Bear",
+        "tomatometer": 67,
+        "genres": "Mystery",
+        "data_ems_id": "3fc11e68-12b2-30e1-bf12-4ad9bb9df033"
+    },
+    {
+        "title": "The Snowman",
+        "tomatometer": 6,
+        "genres": "Mystery",
+        "data_ems_id": "addcab6e-8e65-3227-bc2e-208a3b86225f"
+    },
+    {
+        "title": "Ant-Man and The Wasp: Quantumania",
+        "tomatometer": 47,
+        "genres": "Action, Adventure, Fantasy, Comedy",
+        "data_ems_id": "431505cc-700e-4f8c-911a-2f3fcb2ac5a3"
+    },
+    {
+        "title": "Juniper",
+        "tomatometer": 92,
+        "genres": "Drama",
+        "data_ems_id": "7564d225-e407-30a7-ab41-613b05c0b82f"
+    },
+    {
+        "title": "A Thousand and One",
+        "tomatometer": 97,
+        "genres": "Drama",
+        "data_ems_id": "514e7630-9180-30da-bae8-82460101d65f"
+    },
+    {
+        "title": "65",
+        "tomatometer": 35,
+        "genres": "Sci-fi, Adventure, Action, Mystery",
+        "data_ems_id": "81c5573c-5656-38a1-8f94-a846279a1e46"
+    },
+    {
+        "title": "A Good Person",
+        "tomatometer": 57,
+        "genres": "Drama",
+        "data_ems_id": "e57b77db-b166-41f4-88b7-48601fd7cffe"
+    },
+    {
+        "title": "Rye Lane",
+        "tomatometer": 97,
+        "genres": "Romance, Comedy, Drama",
+        "data_ems_id": "01affe8c-1041-4c14-8114-98f1c9e39f79"
+    },
+    {
+        "title": "Shazam! Fury of the Gods",
+        "tomatometer": 49,
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "data_ems_id": "cb14bef3-e8de-3587-8519-8216a6ef7f39"
+    },
+    {
+        "title": "Tetris",
+        "tomatometer": 82,
+        "genres": "Mystery",
+        "data_ems_id": "da00a95b-d98b-4664-adcc-ca6ae4b6edeb"
+    },
+    {
+        "title": "Mighty Morphin Power Rangers: Once & Always",
+        "tomatometer": 92,
+        "genres": "Action, Adventure, Kids",
+        "data_ems_id": "b3543e50-8492-4221-ae6d-9c39f0270419"
+    },
+    {
+        "title": "Smoking Causes Coughing",
+        "tomatometer": 90,
+        "genres": "Comedy",
+        "data_ems_id": "4f15afc8-8852-3a4e-8285-1aac469e7a72"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "tomatometer": 76,
+        "genres": "Sci-fi, Adventure, Action, Fantasy",
+        "data_ems_id": "6fbed893-5b71-3dc2-b35d-68ee630f6828"
+    },
+    {
+        "title": "Little Richard: I Am Everything",
+        "tomatometer": 94,
+        "genres": "Documentary, Music, Biography",
+        "data_ems_id": "9a37477a-4438-475b-b2a2-9ded4512025e"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "tomatometer": 94,
+        "genres": "Comedy, Adventure, Sci-fi, Fantasy",
+        "data_ems_id": "c5a8fbaa-39aa-3caa-80a4-e94975665a8a"
+    },
+    {
+        "title": "Nope",
+        "tomatometer": 83,
+        "genres": "Sci-fi, Horror, Mystery",
+        "data_ems_id": "6de3b2af-ef38-3d26-ae60-82d87e4dcbb9"
+    },
+    {
+        "title": "Operation Fortune: Ruse de guerre",
+        "tomatometer": 52,
+        "genres": "Action, Comedy, Mystery",
+        "data_ems_id": "90e4f0bd-ed20-3311-a4cd-fa650d2d1be3"
+    },
+    {
+        "title": "Chupa",
+        "tomatometer": 68,
+        "genres": "Kids",
+        "data_ems_id": "208ade17-d670-3403-a374-bd1bd1ad9d8a"
+    },
+    {
+        "title": "A Man Called Otto",
+        "tomatometer": 69,
+        "genres": "Comedy, Drama",
+        "data_ems_id": "9ece2c39-aa0c-36a8-9075-0c7a305a6998"
+    },
+    {
+        "title": "Huesera: The Bone Woman",
+        "tomatometer": 99,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "060ef191-6142-3bd7-9531-ee87a34cf85d"
+    },
+    {
+        "title": "Puss in Boots: The Last Wish",
+        "tomatometer": 95,
+        "genres": "Kids",
+        "data_ems_id": "de9ba2bd-3fdd-4b12-a519-a0a07bc30bf4"
+    },
+    {
+        "title": "The Menu",
+        "tomatometer": 88,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "a6aa1b12-3ed0-3f9a-834f-23c1eb75d58d"
+    },
+    {
+        "title": "The Whale",
+        "tomatometer": 64,
+        "genres": "Drama",
+        "data_ems_id": "6b468eb8-898e-45fa-b43f-4daee6296bd0"
+    },
+    {
+        "title": "Creed III",
+        "tomatometer": 89,
+        "genres": "Drama, Action",
+        "data_ems_id": "daf1e5ee-6493-31a2-8e3e-691859c004e6"
+    },
+    {
+        "title": "Lamborghini: The Man Behind the Legend",
+        "tomatometer": 6,
+        "genres": "Biography, Drama",
+        "data_ems_id": "3eb39d0d-8550-3e0f-ab00-a60f7b20ce0c"
+    },
+    {
+        "title": "Jesus Revolution",
+        "tomatometer": 60,
+        "genres": "Drama, History",
+        "data_ems_id": "8d105e95-5da8-4ca8-a3d3-cba0ba2fa45f"
+    },
+    {
+        "title": "Cherry",
+        "tomatometer": 94,
+        "genres": "Comedy, Drama",
+        "data_ems_id": "d917729a-f1ac-4282-bced-698d06dc8f0a"
+    },
+    {
+        "title": "The Stranger",
+        "tomatometer": 91,
+        "genres": "Crime, Drama, Mystery",
+        "data_ems_id": "421842ae-85ee-4006-afff-91699ee6b28a"
+    },
+    {
+        "title": "On a Wing and a Prayer",
+        "tomatometer": 17,
+        "genres": "Drama, Mystery",
+        "data_ems_id": "11db2114-c94a-351c-8d43-0f4e622ec8ac"
+    },
+    {
+        "title": "Nobody",
+        "tomatometer": 84,
+        "genres": "Action, Mystery",
+        "data_ems_id": "21e612f5-896e-346f-b49b-536b5eb10d65"
+    },
+    {
+        "title": "M3GAN",
+        "tomatometer": 93,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "5f19e3e1-ff56-31f2-acd0-dee2cf925a7b"
+    },
+    {
+        "title": "The Offering",
+        "tomatometer": 76,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "b3f2dbb5-d5ee-3618-afc0-7f7da904af8b"
+    },
+    {
+        "title": "Chrissy Judy",
+        "tomatometer": 100,
+        "genres": "Comedy, Lgbtq",
+        "data_ems_id": "7d2e4005-f9f3-32e5-b627-1fc325af9370"
+    },
+    {
+        "title": "Infinity Pool",
+        "tomatometer": 87,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "0fa059cd-a3ec-421f-92fb-6b96c23347c9"
+    },
+    {
+        "title": "Evil Dead",
+        "tomatometer": 63,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "f1453e25-d5a2-3d6e-b1e9-4957e6b230cc"
+    },
+    {
+        "title": "The Strange Case of Jacky Caillou",
+        "tomatometer": 100,
+        "genres": "Drama, Fantasy, Mystery",
+        "data_ems_id": "90f72363-aa39-4e31-8b21-752c68f5b250"
+    },
+    {
+        "title": "Quasi",
+        "tomatometer": 44,
+        "genres": "Comedy",
+        "data_ems_id": "13fb4f3b-efbf-337b-b7c6-6f47511f398b"
+    },
+    {
+        "title": "Babylon",
+        "tomatometer": 56,
+        "genres": "Comedy, Drama",
+        "data_ems_id": "81795c21-1da7-3cdc-a544-1cd56b27fbb0"
+    },
+    {
+        "title": "Missing",
+        "tomatometer": 87,
+        "genres": "Mystery",
+        "data_ems_id": "2da57b86-71a0-35bd-b8f4-d0c0ed1f113c"
+    },
+    {
+        "title": "Knock at the Cabin",
+        "tomatometer": 67,
+        "genres": "Mystery",
+        "data_ems_id": "ffdcfeea-d1ad-328f-bc08-f5a9434c454e"
+    },
+    {
+        "title": "Ticket to Paradise",
+        "tomatometer": 56,
+        "genres": "Romance, Comedy",
+        "data_ems_id": "e3912e3b-4d4b-3aa7-8bc6-43abc8cf411f"
+    },
+    {
+        "title": "Murder Mystery 2",
+        "tomatometer": 46,
+        "genres": "Comedy, Mystery",
+        "data_ems_id": "0be70066-7a79-48d5-b29c-d1c1bfede00b"
+    },
+    {
+        "title": "X",
+        "tomatometer": 94,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "fda6d2d7-9587-4090-94d8-0e08ddfcf2a7"
+    },
+    {
+        "title": "Judy Blume Forever",
+        "tomatometer": 93,
+        "genres": "Documentary, Biography",
+        "data_ems_id": "95255ae0-5b64-47a6-af32-5cc0c8a49fae"
+    },
+    {
+        "title": "I See You",
+        "tomatometer": 75,
+        "genres": "Mystery",
+        "data_ems_id": "751cace3-9227-31fb-8527-39978a200d3a"
+    },
+    {
+        "title": "365 Days",
+        "tomatometer": 0,
+        "genres": "Drama, Romance",
+        "data_ems_id": "101647f0-d842-3581-b065-aea5e94c0ff7"
+    },
+    {
+        "title": "Aftersun",
+        "tomatometer": 96,
+        "genres": "Drama",
+        "data_ems_id": "5fc9923c-0a38-46e7-a324-4ffde49a280c"
+    },
+    {
+        "title": "The Banshees of Inisherin",
+        "tomatometer": 96,
+        "genres": "Comedy",
+        "data_ems_id": "76aaa1b9-6545-3fd2-a495-b00d4ef9911d"
+    },
+    {
+        "title": "Plane",
+        "tomatometer": 77,
+        "genres": "Action, Adventure, Mystery",
+        "data_ems_id": "ce96a905-e1cf-3e0e-95c3-30a408b84d09"
+    },
+    {
+        "title": "Hereditary",
+        "tomatometer": 90,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "14e2fd18-c40e-329f-8d0a-15137ca7e85c"
+    },
+    {
+        "title": "Triangle of Sadness",
+        "tomatometer": 72,
+        "genres": "Comedy",
+        "data_ems_id": "fdf4a0de-8270-3951-b73e-2a8bdac332a8"
+    },
+    {
+        "title": "Bullet Train",
+        "tomatometer": 54,
+        "genres": "Action, Comedy",
+        "data_ems_id": "7f01ccbe-dc90-30ea-b5f5-acad5c11ffc7"
+    },
+    {
+        "title": "Smile",
+        "tomatometer": 80,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "809e1312-04ea-46f7-9d06-07ea43d3812d"
+    },
+    {
+        "title": "Inside Man",
+        "tomatometer": 86,
+        "genres": "Mystery",
+        "data_ems_id": "1592b7ab-12d2-394d-b61c-a59a4f532f7c"
+    },
+    {
+        "title": "Your Name",
+        "tomatometer": 98,
+        "genres": "Fantasy, Romance, Anime",
+        "data_ems_id": "45f78c53-db80-3136-9e7f-83e8e4abf187"
+    },
+    {
+        "title": "John Wick",
+        "tomatometer": 86,
+        "genres": "Action, Mystery",
+        "data_ems_id": "678386d1-d7db-3727-9398-3d3da7b38739"
+    },
+    {
+        "title": "Emily the Criminal",
+        "tomatometer": 94,
+        "genres": "Crime, Drama, Mystery",
+        "data_ems_id": "c8a86978-2e52-478b-8496-6dad46e051e8"
+    },
+    {
+        "title": "Phenomena",
+        "tomatometer": 40,
+        "genres": "Horror, Comedy",
+        "data_ems_id": "9251d738-4207-3d67-894d-bf4edb9dc79a"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "tomatometer": 96,
+        "genres": "Action, Adventure",
+        "data_ems_id": "db97d08b-0855-3d42-890f-829fddbdb1fa"
+    },
+    {
+        "title": "Inside",
+        "tomatometer": 63,
+        "genres": "Drama",
+        "data_ems_id": "70d7b79f-9cc2-3bcd-ab69-5ad8636d1e3a"
+    },
+    {
+        "title": "The Portable Door",
+        "tomatometer": 91,
+        "genres": "Fantasy, Adventure, Comedy",
+        "data_ems_id": "b3f658c6-1c1f-3143-ad6c-3539dbbe9308"
+    },
+    {
+        "title": "Midsommar",
+        "tomatometer": 83,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "b0a8dd79-b9c5-362b-bb78-0c40de2d78b3"
+    },
+    {
+        "title": "His House",
+        "tomatometer": 100,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "91ff1942-96e3-3b44-aa50-771cb3780a0c"
+    },
+    {
+        "title": "Law of Tehran",
+        "tomatometer": 95,
+        "genres": "Crime, Drama",
+        "data_ems_id": "6766a231-4d94-3950-a7fd-8a9f64a5ad98"
+    },
+    {
+        "title": "Living",
+        "tomatometer": 96,
+        "genres": "Drama",
+        "data_ems_id": "ecadd58c-d17a-46e6-87e2-c60e591f40d0"
+    },
+    {
+        "title": "Attachment",
+        "tomatometer": 95,
+        "genres": "Drama, Mystery",
+        "data_ems_id": "09138a36-de2b-4973-a06b-7aab221ca6a1"
+    },
+    {
+        "title": "Black Panther: Wakanda Forever",
+        "tomatometer": 84,
+        "genres": "Action, Adventure, Fantasy",
+        "data_ems_id": "618ab0ee-b32e-36d1-a1ea-6e608003cdf2"
+    },
+    {
+        "title": "Luther: The Fallen Sun",
+        "tomatometer": 68,
+        "genres": "Crime, Drama, Mystery",
+        "data_ems_id": "c19edefa-cc3a-3d91-841d-aefb602893fe"
+    },
+    {
+        "title": "Chaos Walking",
+        "tomatometer": 21,
+        "genres": "Sci-fi, Adventure",
+        "data_ems_id": "eb914109-141b-3701-b3e4-aa12a50fcb11"
+    },
+    {
+        "title": "Cuties",
+        "tomatometer": 87,
+        "genres": "Comedy, Drama",
+        "data_ems_id": "a2d7958f-55ee-38a6-bb1c-14cf8bb0aa94"
+    },
+    {
+        "title": "The Batman",
+        "tomatometer": 85,
+        "genres": "Action, Adventure, Crime, Drama",
+        "data_ems_id": "60f1eca0-6a51-3cb2-95b6-3ab959ba6e87"
+    },
+    {
+        "title": "The Fabelmans",
+        "tomatometer": 92,
+        "genres": "Drama",
+        "data_ems_id": "8a6be44d-63a4-34af-96b3-a40c0f03abaa"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "tomatometer": 91,
+        "genres": "Drama",
+        "data_ems_id": "d40fba4d-f6e5-3b8e-ad62-09efd03531b2"
+    },
+    {
+        "title": "One Day as a Lion",
+        "tomatometer": 68,
+        "genres": "Crime, Drama, Comedy",
+        "data_ems_id": "a012ad12-03e2-3c3d-9ddf-2194effe4fd3"
+    },
+    {
+        "title": "Black Adam",
+        "tomatometer": 38,
+        "genres": "Action, Adventure, Fantasy",
+        "data_ems_id": "09a12550-c5fe-4b73-98fd-706cb694c324"
+    },
+    {
+        "title": "Champions",
+        "tomatometer": 58,
+        "genres": "Comedy",
+        "data_ems_id": "8d14134a-57c1-3f32-a0ee-9fdb0b789e5a"
+    },
+    {
+        "title": "T\u00e1r",
+        "tomatometer": 90,
+        "genres": "Drama, Music",
+        "data_ems_id": "fa576136-17af-33ba-94ff-69d94d45226b"
+    },
+    {
+        "title": "Where the Crawdads Sing",
+        "tomatometer": 34,
+        "genres": "Drama, Mystery",
+        "data_ems_id": "ea152546-2548-37d5-8a31-99a6bab4bc6d"
+    },
+    {
+        "title": "War of the Worlds: The Attack",
+        "tomatometer": "None",
+        "genres": "Sci-fi, Mystery",
+        "data_ems_id": "8bd2c93b-3444-3398-aa5c-ba12b09127c2"
+    },
+    {
+        "title": "The Last Stand",
+        "tomatometer": 61,
+        "genres": "Action",
+        "data_ems_id": "f51fc382-50c9-3e11-b9c1-2736b433b0e0"
+    },
+    {
+        "title": "The Woman King",
+        "tomatometer": 94,
+        "genres": "Action, Adventure, History, Drama, War",
+        "data_ems_id": "0a7e441c-2fa0-3e58-95f1-93c3592f94bb"
+    },
+    {
+        "title": "RRR",
+        "tomatometer": 95,
+        "genres": "Action, Drama",
+        "data_ems_id": "7b002164-94ab-3123-a3be-58e999cfe979"
+    },
+    {
+        "title": "Sick",
+        "tomatometer": 86,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "6089a9c0-8913-4d09-a6b2-0774db849875"
+    },
+    {
+        "title": "Boston Strangler",
+        "tomatometer": 68,
+        "genres": "Crime, Drama",
+        "data_ems_id": "3706c670-48e5-3776-94df-9d7c27e0dc25"
+    },
+    {
+        "title": "Leave No Trace",
+        "tomatometer": 100,
+        "genres": "Drama",
+        "data_ems_id": "125bb9ba-09cc-3340-a3a0-b3024300232f"
+    },
+    {
+        "title": "Murder Mystery",
+        "tomatometer": 44,
+        "genres": "Comedy, Mystery",
+        "data_ems_id": "0c0f5aff-b106-4da1-ab13-811c632f0df0"
+    },
+    {
+        "title": "Interstellar",
+        "tomatometer": 73,
+        "genres": "Sci-fi, Adventure, Action",
+        "data_ems_id": "ba9320dd-78db-3d61-b5f1-e7da1f1758cf"
+    },
+    {
+        "title": "Turning Red",
+        "tomatometer": 95,
+        "genres": "Kids",
+        "data_ems_id": "e064faef-8426-4c8e-a986-ff6ff7764eeb"
+    },
+    {
+        "title": "The Innocents",
+        "tomatometer": 96,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "b1444013-92e0-333a-a377-1bc8d3eeffec"
+    },
+    {
+        "title": "The Strays",
+        "tomatometer": 52,
+        "genres": "Drama, Mystery",
+        "data_ems_id": "01cc1850-0ede-389e-836c-99243625606f"
+    },
+    {
+        "title": "One True Loves",
+        "tomatometer": 27,
+        "genres": "Romance, Comedy, Drama",
+        "data_ems_id": "9155b1bf-99f2-4efe-8ebd-cdd9ec569412"
+    },
+    {
+        "title": "Hellbender",
+        "tomatometer": 97,
+        "genres": "Horror",
+        "data_ems_id": "e2df4a5b-4db2-3adf-a86e-8d311c013140"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "tomatometer": 90,
+        "genres": "War, History, Drama, Action",
+        "data_ems_id": "5911bdca-999f-4f3f-a17e-f3f7245b16b8"
+    },
+    {
+        "title": "L.A. Confidential",
+        "tomatometer": 99,
+        "genres": "Crime, Drama",
+        "data_ems_id": "963448dc-df1d-3125-aa10-639748f56fb0"
+    },
+    {
+        "title": "The Immaculate Room",
+        "tomatometer": 29,
+        "genres": "Mystery",
+        "data_ems_id": "a072c271-e2fc-3995-91c7-b4cb98bd451c"
+    },
+    {
+        "title": "Longest Third Date",
+        "tomatometer": "None",
+        "genres": "Documentary",
+        "data_ems_id": "c47d73c0-83a9-4545-aeb8-0b801ad466d2"
+    },
+    {
+        "title": "Rare Objects",
+        "tomatometer": 40,
+        "genres": "Drama",
+        "data_ems_id": "3d4c0058-016e-31d4-983e-cb8b52ce5bdf"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "tomatometer": 94,
+        "genres": "Action, Adventure, Fantasy, Sci-fi",
+        "data_ems_id": "7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e"
+    },
+    {
+        "title": "You People",
+        "tomatometer": 41,
+        "genres": "Romance, Comedy",
+        "data_ems_id": "34b10090-7360-3802-a99c-e74ad4ea09b2"
+    },
+    {
+        "title": "What Is a Woman?",
+        "tomatometer": 83,
+        "genres": "Documentary",
+        "data_ems_id": "1619fb6c-b4f3-4086-8534-9a8c7510fd96"
+    },
+    {
+        "title": "Barbarian",
+        "tomatometer": 93,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "7ad6a959-bd25-45ac-83cb-f84366374d95"
+    },
+    {
+        "title": "It Follows",
+        "tomatometer": 95,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "882dfd3a-8804-3ac5-a61e-6eace6eea46f"
+    },
+    {
+        "title": "Don't Worry Darling",
+        "tomatometer": 38,
+        "genres": "Mystery",
+        "data_ems_id": "54c30104-56a9-36a5-b75d-3c5637405dd2"
+    },
+    {
+        "title": "John Wick: Chapter 3 -- Parabellum",
+        "tomatometer": 89,
+        "genres": "Action, Mystery",
+        "data_ems_id": "7394a832-74eb-3e08-8c6e-eda6dca9dd36"
+    },
+    {
+        "title": "Strange World",
+        "tomatometer": 72,
+        "genres": "Kids",
+        "data_ems_id": "037fe119-e636-4702-a024-fa2b3a95f865"
+    },
+    {
+        "title": "The Hole in the Ground",
+        "tomatometer": 83,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "2510cc3d-3255-301d-8986-c85e2634e955"
+    },
+    {
+        "title": "Personality Crisis: One Night Only",
+        "tomatometer": 100,
+        "genres": "Biography, Documentary, Music",
+        "data_ems_id": "8dbd8f2d-5e9f-400d-a676-bf731a2b814a"
+    },
+    {
+        "title": "Weathering With You",
+        "tomatometer": 92,
+        "genres": "Drama, Fantasy, Anime",
+        "data_ems_id": "6b9e905c-8844-34b3-8f86-f7d857a1591e"
+    },
+    {
+        "title": "80 for Brady",
+        "tomatometer": 60,
+        "genres": "Comedy",
+        "data_ems_id": "8febdaa4-a3ea-33df-bbc9-da5559a6359b"
+    },
+    {
+        "title": "Amsterdam",
+        "tomatometer": 32,
+        "genres": "Comedy, Mystery",
+        "data_ems_id": "75a7bd35-0202-42e6-a064-0634027bfa84"
+    },
+    {
+        "title": "The Evil Dead",
+        "tomatometer": 85,
+        "genres": "Horror",
+        "data_ems_id": "e541203d-dbc2-354f-b51a-8a20bed9d91f"
+    },
+    {
+        "title": "The Big Lebowski",
+        "tomatometer": 79,
+        "genres": "Comedy",
+        "data_ems_id": "6b654c75-0487-39a6-938b-08b442a6d4fb"
+    },
+    {
+        "title": "Thor: Love and Thunder",
+        "tomatometer": 63,
+        "genres": "Action, Adventure, Fantasy, Comedy",
+        "data_ems_id": "0e71cf84-e236-3ed7-9d91-3df34e6b2fae"
+    },
+    {
+        "title": "Pearl",
+        "tomatometer": 92,
+        "genres": "Horror, Mystery",
+        "data_ems_id": "210db9e0-5197-40da-b134-93249b8d3964"
+    },
+    {
+        "title": "XX",
+        "tomatometer": 69,
+        "genres": "Horror",
+        "data_ems_id": "ee50347c-dfd3-31b5-bf64-b47c92a3bc78"
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "tomatometer": 91,
+        "genres": "Sci-fi, Adventure, Action, Fantasy",
+        "data_ems_id": "ad34316e-4d9c-3f65-a3cf-4a2174e294a1"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "tomatometer": 52,
+        "genres": "Sci-fi, Adventure, Action, Fantasy",
+        "data_ems_id": "d7083795-3ab7-3b17-9717-bbe6401ffd79"
+    }
+]

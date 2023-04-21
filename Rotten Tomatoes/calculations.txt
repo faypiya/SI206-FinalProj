@@ -1,0 +1,16 @@
+The average tomatometer of best movies that are certified fresh is 90.58. 
+
+How many times each genre shows up in Certified Fresh Best Movies at Home:
+Horror: 15
+Mystery: 20
+Drama: 15
+Sci-fi: 15
+Adventure: 10
+Action: 5
+Fantasy: 10
+Romance: 5
+Comedy: 15
+Kids: 5
+Documentary: 5
+Music: 5
+Biography: 5
